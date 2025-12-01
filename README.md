@@ -9,7 +9,7 @@ Repository for practice in Software System Development 2025
 
 * top:
   * Hi this is Hajimu!
-...
   * Hello! I'm Yutaro!
+  * こんにちは、パコーンです\0w0/!
 * bottom:
 ####
