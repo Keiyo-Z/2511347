@@ -11,5 +11,6 @@ Repository for practice in Software System Development 2025
   * Hi this is Hajimu!
 ...
   * Hello! I'm Yutaro!
+  * Don't forget to be awesome!
 * bottom:
 ####
