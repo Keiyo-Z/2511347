@@ -11,8 +11,14 @@ Repository for practice in Software System Development 2025
   * Hi this is Hajimu!
 ...
   * Hello! I'm Yutaro!
+  * Hi I'm Koki Shibata!
   * Love from IS!
   * Hi! I'm Masatoshi!
   # Love from Japan!
+  * North London Is RED!
+  * Hello! This is Thomas!
+  * Love from France!
 * bottom:
 ####
+
+**Nya😽**  
