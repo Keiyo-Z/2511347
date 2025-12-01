@@ -18,6 +18,7 @@ Repository for practice in Software System Development 2025
   * North London Is RED!
   * Hello! This is Thomas!
   * Love from France!
+  * This is my commit in the Repo! #LN4 #KO8
 * bottom:
 ####
 
