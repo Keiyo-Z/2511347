@@ -28,17 +28,9 @@ Repository for practice in Software System Development 2025
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
   * Enjoy coding!
+  * import pandas as pd
   * hello world!
   * hello world!
   * hello
 * bottom:
 ####
-  * It's been getting cold lately.
-  * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
-  * Hi
-  * Greetings, everyone!
-* bottom:
-
-#### 
-
-
