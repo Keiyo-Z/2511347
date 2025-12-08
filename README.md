@@ -16,6 +16,7 @@ Repository for practice in Software System Development 2025
   * こんにちは、パコーンです\\0w0/!
   * Hi I'm Koki Shibata!
   * Love from IS!
+  * Hi!!!!🐶
   * North London Is RED!
   * Hello! This is Thomas!
   * Love from France!
@@ -46,5 +47,6 @@ Repository for practice in Software System Development 2025
   * Hi
   * Hello! Good evening
   * Hello!
+  * good good study!day day up!
 * bottom:
 ####
