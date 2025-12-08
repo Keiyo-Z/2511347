@@ -35,7 +35,9 @@ Repository for practice in Software System Development 2025
   * Hello! I'm YU!
   * hello
   * Have a nice weekend~
+  * Hello! I'm Izumi!
   * Hello~
+  * Can't wait for Christmas ! 
   * Konnichiwa!
 * bottom:
 ####
