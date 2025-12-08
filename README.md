@@ -38,6 +38,7 @@ Repository for practice in Software System Development 2025
   * Have a nice weekend~
   * Hello! I'm Izumi!
   * Hello~
+  * good morning!
   * Hello! Good evening
 * bottom:
 ####
