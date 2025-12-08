@@ -9,7 +9,7 @@ Repository for practice in Software System Development 2025
 ## put your lines between top and bottom lines
 
 * top:
-
+  * No day but today!
   * 妖狐そう、私のサウロソサイチへ
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
@@ -34,7 +34,7 @@ Repository for practice in Software System Development 2025
   * It's been getting cold lately.
   * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
   *Don't work on the master branch!
-  * Guys Where is the best place to eat in OSAKA ? 
+  * Guys Where is the best place to eat in OSAKA ?
 
   * Greetings from Ikoma!
   * import pandas as pd
