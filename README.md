@@ -43,6 +43,7 @@ Repository for practice in Software System Development 2025
   * Hello! I'm YU!
   * hello
   * Have a nice weekend~
+  * I thought what I'd do was, I'd pretend I was one of those deaf-mutes, or should I?
   * Hello! I'm Izumi!
   * Hello~
   * good morning!
