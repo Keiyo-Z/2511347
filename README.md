@@ -9,14 +9,17 @@ Repository for practice in Software System Development 2025
 ## put your lines between top and bottom lines
 
 * top:
-
+  * No day but today!
+  * 妖狐そう、私のサウロソサイチへ
   * Hi this is Hajimu!
   * Hello! I'm Yutaro!
   * こんにちは、パコーンです\\0w0/!
   * Hi I'm Koki Shibata!
   * Love from IS!
+  * Hi!!!!🐶
   * North London Is RED!
   * Hello! This is Thomas!
+  * Hey!!
   * Love from France!
   * Brace Yourselves! Winter is Coming!
   * This is my commit in the Repo! #LN4 #KO8
@@ -28,6 +31,11 @@ Repository for practice in Software System Development 2025
   * NOTHING beats a JET2HOLIDAY!!!
   * What a relief.
   * Enjoy coding!
+  * It's been getting cold lately.
+  * "The programmer, like the poet, works only slightly removed from pure thought-stuff." - Frederick Brooks
+  *Don't work on the master branch!
+  * Guys Where is the best place to eat in OSAKA ?
+
   * Greetings from Ikoma!
   * import pandas as pd
   * hello world!
@@ -36,5 +44,15 @@ Repository for practice in Software System Development 2025
   * hello
   * Have a nice weekend~
   * I thought what I'd do was, I'd pretend I was one of those deaf-mutes, or should I?
+  * Hello! I'm Izumi!
+  * Hello~
+  * good morning!
+  * Hi
+  * Hello! Good evening
+  * Hello!
+  * good good study!day day up!
+  * It cold outside
+
+  * I'm the END.
 * bottom:
 ####
