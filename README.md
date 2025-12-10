@@ -51,6 +51,7 @@ Repository for practice in Software System Development 2025
   * Hello!
   * good good study!day day up!
   * It cold outside
+  * I thought what I’d do was, I’d pretend I was one of those deaf-mutes, or should I
 
   * I'm the END.
 * bottom:
